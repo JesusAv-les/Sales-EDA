@@ -48,6 +48,29 @@ Continuing with the revenue, we can conclude that each gender contributes practi
 
 Here we can see the performance of each category by age range, this can help to understand which category is more important for each range, for example we can see that the category of Beauty is the least buy by 55-64 range. While the age of 25-34 is the one that buy the most the category of Clothing.
 
+![image](https://github.com/user-attachments/assets/daa9a323-0ebe-48a4-a81e-4bbed90e10b8)
+
+Now we can see that the categories where each gender spend more and generates more revenue are Electronics for males and Clothing for Female 
+![image](https://github.com/user-attachments/assets/abf9b43b-4a6f-468b-bcfc-cbb17697fa2b)
+
+We can see how much people are spending in each category, even though beauty is the least sell during the year people spend more by transaction and clothing is the one where most of people spend the least while the sales of this category flunctuates the least during the year
+
+![image](https://github.com/user-attachments/assets/0ff7e0bd-e462-46c1-b761-0ce0f78fcdef)
+Here we can see how can fluctuate the total amount spend comparing to the quantity bought, for example, the highest range of amount in the category beauty is when quantity is 2. On the other hand in the category electronics it does not vary significantly between quantities, this could be because there are items that are not that pricy. And finally, we can see that the range of total amount in clothing does vary between the quantity bought, from quiantity one with a range of 0-500 to quantity three with a range of total spend between 750-1500.
+
+![image](https://github.com/user-attachments/assets/8aaa456d-59a8-43bf-b22c-ebaa2534f071)
+
+Here we can see that in almost all age ranges half of the customers spend the same amount, having a little variation in some of them. On two of this ranges 75% of customers spend the same, and in three of them there is a difference on how much that 25% of the customers spende more than the other gender.
+
+![image](https://github.com/user-attachments/assets/64ec2641-a18f-43ff-9363-1b55c476239f)
+
+![image](https://github.com/user-attachments/assets/facc1cc4-b6ff-4d8d-8465-72f9e16e0e3d)
+
+
+
+
+
+
 
 
 
